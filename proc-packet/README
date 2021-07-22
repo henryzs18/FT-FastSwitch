@@ -1,0 +1,1 @@
+This package is used for packet process bypass the kernel network protocol stack, which is an important part of FT-FastSwitch. And it is based on a common used lib --- DPDK.
